@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:7c3aed,70:ec4899,100:38bdf8&text=n3kuri&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Roblox%20Developer%20%E2%80%A2%20Game%20Tester%20%E2%80%A2%20Anime%20Enjoyer%20%E2%80%A2%20Catboy&descAlignY=58&descSize=18" />
+<br><br>
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1100&color=D8CCF2&center=true&vCenter=true&width=900&lines=Heya%2C+I'm+n3kuri;Roblox+developer+building+clean+systems;Game+tester+focused+on+quality+and+polish;Creating+assets%2C+tools%2C+and+cool+Roblox+projects" alt="Typing SVG" /></a>
+
 
 <br>
 
@@ -8,13 +12,7 @@
 <img src="https://img.shields.io/github/followers/n3kuri?style=for-the-badge&color=38bdf8&labelColor=111827&logo=github&label=FOLLOWERS" />
 <img src="https://img.shields.io/github/stars/n3kuri?style=for-the-badge&color=7c3aed&labelColor=111827&logo=github&label=STARS" />
 
-<br><br>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=EC4899&center=true&vCenter=true&width=900&lines=Heya%2C+I'm+n3kuri+%F0%9F%90%BE;Roblox+developer+building+clean+systems;Game+tester+focused+on+quality+and+polish;Creating+assets%2C+tools%2C+and+cool+Roblox+projects" alt="Typing SVG" />
-</a>
-
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Roblox%20Developer-111827?style=for-the-badge&logo=roblox&logoColor=white" />
 <img src="https://img.shields.io/badge/Game%20Tester-111827?style=for-the-badge&logo=checkmarx&logoColor=38bdf8" />
@@ -24,9 +22,9 @@
 
 </div>
 
----
+##
 
-## 🐾 About Me
+<br>
 
 Heya, I’m **n3kuri**.
 
@@ -34,11 +32,11 @@ I’m a **Roblox developer** and **game tester** who enjoys creating clean, usef
 
 I also enjoy testing games, finding bugs, improving player experience, and learning new ways to make my projects better. Outside of development, I love anime and usually bring a bit of catboy energy into my style.
 
----
-
-## 🌐 Socials
+##
 
 <div align="center">
+
+<br>
 
 <a href="https://github.com/n3kuri">
   <img src="https://img.shields.io/badge/GitHub-n3kuri-111827?style=for-the-badge&logo=github&logoColor=white" />
@@ -58,11 +56,13 @@ I also enjoy testing games, finding bugs, improving player experience, and learn
 
 </div>
 
----
+##
 
 ## 🛠️ Skills & Tools
 
 <div align="center">
+
+<br>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=lua,robloxstudio,vscode,git,github,md,figma,discord,bots&theme=dark&perline=9" />
@@ -80,125 +80,35 @@ I also enjoy testing games, finding bugs, improving player experience, and learn
 
 </div>
 
----
+##
 
-## ✨ Developer Profile
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Focus-Roblox%20Systems-ec4899?style=for-the-badge&labelColor=111827" />
-      <br><br>
-      Clean and configurable systems for Roblox games.
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Style-Useful%20%26%20Polished-7c3aed?style=for-the-badge&labelColor=111827" />
-      <br><br>
-      Scripts, UI, assets, and features that feel smooth.
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Testing-Bugs%20%26%20Quality-38bdf8?style=for-the-badge&labelColor=111827" />
-      <br><br>
-      Testing gameplay, finding issues, and improving UX.
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 📦 Featured Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Restocking System</h3>
-      <p align="center">
-        A Roblox system focused on product stock, restock tools, prompts, and clean server/client handling.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Access Control System</h3>
-      <p align="center">
-        A permission-based Roblox system using groups, ranks, users, and custom authorization checks.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Staff Barrier System</h3>
-      <p align="center">
-        A zone-based access system designed for staff-only areas and protected spaces.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">UI / Notification Systems</h3>
-      <p align="center">
-        Smooth popups, tweens, prompts, and feedback systems for better player experience.
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=n3kuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ec4899&icon_color=38bdf8&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3kuri&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ec4899&text_color=c9d1d9" />
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=n3kuri&theme=tokyonight&hide_border=true&background=00000000&ring=ec4899&fire=38bdf8&currStreakLabel=ec4899" />
+<img src="https://streak-stats.demolab.com?user=n3kuri&theme=tokyonight&hide_border=true&background=00000000&ring=C8B6E2&fire=9A8BC9&currStreakLabel=E6DDF2" />
 
 </div>
 
----
+##
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=n3kuri&theme=tokyo-night&hide_border=true&bg_color=00000000&color=ec4899&line=38bdf8&point=ffffff&area=true&area_color=7c3aed" />
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=n3kuri&theme=tokyo-night&hide_border=true&bg_color=00000000&color=C8B6E2&line=9A8BC9&point=F7F3F7&area=true&area_color=E6DDF2" />
 
 </div>
 
----
-
-## 💌 Contact
+##
 
 <div align="center">
 
-Want to contact me, check out my projects, or see what I’m working on?
-
-<br><br>
-
-<a href="https://github.com/n3kuri">
-  <img src="https://img.shields.io/badge/View%20My%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.roblox.com/users/YOUR_ROBLOX_ID/profile">
-  <img src="https://img.shields.io/badge/View%20My%20Roblox-111827?style=for-the-badge&logo=roblox&logoColor=white" />
-</a>
-<a href="https://ko-fi.com/YOUR_KOFI_NAME">
-  <img src="https://img.shields.io/badge/Support%20on%20Ko--fi-111827?style=for-the-badge&logo=kofi&logoColor=ec4899" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:38bdf8,45:7c3aed,100:ec4899" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:E6DDF2,45:C8B6E2,100:9A8BC9" />
 
 <sub>Last edited: `2026-06-30`</sub>
 
