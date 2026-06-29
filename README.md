@@ -41,17 +41,14 @@ I also enjoy testing games, finding bugs, improving player experience, and learn
 <a href="https://github.com/n3kuri">
   <img src="https://img.shields.io/badge/GitHub-n3kuri-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.roblox.com/users/YOUR_ROBLOX_ID/profile">
+<a href="https://www.roblox.com/users/1463219506/profile">
   <img src="https://img.shields.io/badge/Roblox-Profile-111827?style=for-the-badge&logo=roblox&logoColor=white" />
 </a>
-<a href="https://ko-fi.com/YOUR_KOFI_NAME">
+<a href="https://ko-fi.com/n3kuri">
   <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-111827?style=for-the-badge&logo=kofi&logoColor=ec4899" />
 </a>
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
+<a href="https://discord.com/users/1219735160526995597">
   <img src="https://img.shields.io/badge/Discord-Contact%20Me-111827?style=for-the-badge&logo=discord&logoColor=5865F2" />
-</a>
-<a href="https://YOUR_PORTFOLIO_LINK.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=38bdf8" />
 </a>
 
 </div>
